@@ -25,6 +25,25 @@ nav a {
   font-weight: bold;
 }
 
+@media (max-width: 768px) {
+  nav {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+    padding: 10px 12px;
+    gap: 8px;
+  }
+
+  nav a {
+    flex: 0 0 auto;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 20px;
+  }
+}
+
 main {
   max-width: 1000px;
   margin: 24px auto;
