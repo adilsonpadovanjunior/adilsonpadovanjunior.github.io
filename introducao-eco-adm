@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Introdução à Economia</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Introdução à Economia</h1>
+    <p>Portal da Disciplina • Prof. Dr. Adilson</p>
+  </header>
+
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="#ementa">Ementa</a>
+    <a href="#datas">Datas Importantes</a>
+    <a href="#conteudo">Conteúdo</a>
+    <a href="#materiais">Materiais</a>
+    <a href="#avaliacoes">Avaliações</a>
+    <a href="#referencias">Referências</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <main>
+
+    <section id="ementa">
+      <h2>Ementa</h2>
+      <p>
+      Introdução aos fundamentos da Ciência Econômica, abordando os principais conceitos, produção, 
+      funcionamento dos mercados, formação de preços e noções básicas de microeconomia e macroeconomia.
+      </p>
+    </section>
+
+    <section id="datas">
+      <h2>Datas Importantes</h2>
+    
+      <ul>
+        <li>📝 1ª Avaliação (1º bimestre): Data em definição</li>
+        <li>📝 2ª Avaliação (2º bimestre): Data em definição</li>
+        <li>📝 3ª Avaliação (3º bimestre): Data em definição</li>
+        <li>📝 4ª Avaliação (4º bimestre): Data em definição</li>
+        <li>📄 Entrega de atividades/trabalhos: Data em definição</li>
+      </ul>
+    
+      <p>
+        <em>As datas podem sofrer ajustes conforme o andamento da disciplina e o calendário acadêmico.</em>
+      </p>
+    
+    </section>
+    
+    <section id="conteudo">
+      <h2>Mapa de Conteúdo</h2>
+
+      <h3>1. Introdução: principais conceitos e princípios</h3>
+      <div class="card">1.1 10 princípios da Economia (Mankiw)</div>
+      <div class="card">1.2 Teoria e métodos de investigação da Ciência Econômica</div>
+      <div class="card">1.3 Natureza de investigação na Ciência Econômica</div>
+      <div class="card">1.4 Objeto da Ciência Econômica: a Lei da Escassez</div>
+      <div class="card">1.5 Problemas Econômicos Fundamentais</div>
+      <div class="subcard">1.5.1 A Curva de Possibilidades de Produção</div>
+      <div class="card">1.6 O problema da organização econômica</div>
+      <div class="subcard">1.6.1 Sistemas Econômicos</div>
+      <div class="subcard">1.6.2 O Fluxo Circular da Renda</div>
+
+      <h3>2. Introdução à Microeconomia</h3>
+      <div class="card">2.1 As leis da oferta e demanda</div>
+      <div class="subcard">2.1.1 Conceitos</div>
+      <div class="subcard">2.1.2 Fatores que determinam a oferta e demanda</div>
+      <div class="subcard">2.1.3 Equilíbrio de mercado: preço e quantidade de equilíbrio</div>
+      <div class="card">2.2 Elasticidades: conceitos e aplicações</div>
+      <div class="card">2.3 Comportamento da empresa: produção, custos, receitas e lucro</div>
+      <div class="card">2.4 Estruturas de mercado</div>
+      <div class="subcard">2.4.1 Concorrência perfeita</div>
+      <div class="subcard">2.4.2 Monopólio</div>
+      <div class="subcard">2.4.3 Concorrência monopolista</div>
+      <div class="subcard">2.4.4 Oligopólio</div>
+
+      <h3>3. Introdução à Macroeconomia</h3>
+      <div class="card">3.1 Introdução à Contabilidade Nacional</div>
+      <div class="card">3.2 Produção, consumo e renda</div>
+      <div class="card">3.3 Investimento e taxa de juros</div>
+      <div class="card">3.4 Oferta e demanda agregadas</div>
+      <div class="card">3.5 Inflação, desemprego e Curva de Phillips</div>
+      <div class="card">3.6 Introdução à Economia Monetária</div>
+      <div class="subcard">3.6.1 A moeda: conceito, funções e evolução</div>
+      <div class="subcard">3.6.2 Oferta e demanda de moeda</div>
+      <div class="subcard">3.6.3 Meios de pagamento</div>
+      <div class="subcard">3.6.4 Sistema monetário e financeiro</div>
+
+      <h3>4. Noções de Economia Internacional</h3>
+      <div class="card">4.1 Teorias do Comércio Internacional: breve histórico</div>
+      <div class="card">4.2 Taxa de Câmbio e Regimes Cambiais</div>
+      <div class="card">4.3 O Balanço de Pagamentos</div>
+    </section>
+
+    <section id="materiais">
+      <h2>Materiais da Disciplina</h2>
+
+      <h3>Módulo 1</h3>
+      <ul>
+        <li>📥 <a href="materiais/aula_apresentacao_introeco.pdf" download>Slides Aula de Apresentação</a></li>
+        <li>📥 <a href="materiais/aula1_introeco.pdf" download>Slides Aula 1.1 - 10 princípios da Economia (Mankiw)</a></li>
+      </ul>
+
+      <h3>Módulo 2</h3>
+      <ul>
+        <li>Materiais serão disponibilizados ao longo do período letivo</li>
+      </ul>
+
+      <h3>Módulo 3</h3>
+      <ul>
+        <li>Materiais serão disponibilizados ao longo do período letivo</li>
+      </ul>
+
+      <h3>Módulo 4</h3>
+      <ul>
+        <li>Materiais serão disponibilizados ao longo do período letivo</li>
+      </ul>
+    </section>
+
+    <section id="avaliacoes">
+      <h2>Avaliações</h2>
+      <ul>
+        <li>Quatro avaliações de aprendizagem, sendo uma por bimestre</li>
+        <li>Trabalhos, exercícios e atividades ao longo de cada bimestre</li>
+        <li>Participação e acompanhamento contínuo</li>
+        <li>Possibilidade de exame final, conforme regimento institucional</li>
+      </ul>
+
+      <p>
+        Em cada bimestre, a atividade principal de avaliação terá nota de <strong>0,0 a 8,0</strong>,
+        enquanto trabalhos, exercícios e demais atividades poderão compor até <strong>2,0 pontos</strong>.
+      </p>
+
+      <p>
+        Será aprovado o acadêmico que obtiver média final igual ou superior a <strong>7,0</strong>,
+        conforme o Regimento Geral da UNESPAR. Para realização de exame final, exige-se média mínima
+        de <strong>4,0</strong> e frequência igual ou superior a <strong>75%</strong>.
+      </p>
+    </section>
+    
+    <section id="referencias">
+      <h2>Referências Bibliográficas</h2>
+    
+      <details>
+        <summary><strong>Clique para visualizar as principais referências</strong></summary>
+    
+        <ul>
+          <li>MANKIW, Nicholas Gregory. <em>Introdução à Economia: Princípios de micro e macroeconomia</em>. 8. ed. São Paulo: Cengage Learning, 2019.</li>
+          <li>PINHO, Diva Benevides; VASCONCELLOS, Marco Antonio; TONETO JR., Rudinei (org.). <em>Manual de Economia</em>. 7. ed. São Paulo: Saraiva, 2017.</li>
+          <li>VASCONCELLOS, Marco Antonio Sandoval; GARCIA, Manuel Enriquez. <em>Fundamentos de Economia</em>. 5. ed. São Paulo: Saraiva, 2017.</li>
+        </ul>
+    
+        <p><em>Outras referências complementares, artigos e materiais de apoio poderão ser indicados ao longo do semestre conforme a evolução da disciplina.</em></p>
+    
+      </details>
+    </section>
+    
+    <section id="contato">
+      <h2>Contato</h2>
+
+      <p>
+        Em caso de dúvidas sobre a disciplina:
+      </p>
+
+      <p>
+        📧 E-mail:
+        <a href="mailto:padovanjr@gmail.com">padovanjr@gmail.com</a>
+      </p>
+
+      <!--
+      <p>
+        💬 WhatsApp:
+        <a href="https://wa.me/5544999999999" target="_blank">
+          Enviar mensagem
+        </a>
+      </p>
+      -->
+    </section>
+
+    <section>
+      <a href="../index.html" class="disciplina-link">
+        ← Voltar ao portal das disciplinas
+      </a>
+    </section>
+
+  </main>
+
+  <footer>
+    Portal da Disciplina • Introdução à Economia • Prof. Dr. Adilson Padovan Junior
+  </footer>
+
+</body>
+</html>
