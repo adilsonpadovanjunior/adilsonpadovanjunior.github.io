@@ -67,6 +67,13 @@ ul {
   line-height: 1.8;
 }
 
+.subtitulo{
+  display:block;
+  font-size:0.85em;
+  color:#666;
+  margin-top:2px;
+}
+
 .card{
   background:#f4f6f8;
   padding:12px;
