@@ -121,3 +121,37 @@ footer {
 .disciplina-link:hover {
   transform: translateY(-3px);
 }
+
+.galeria-capas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.capa-card {
+  max-width: 320px;
+  text-align: center;
+}
+
+.capa-card img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease;
+}
+
+.capa-card img:hover {
+  transform: scale(1.02);
+}
+
+.capa-card h3 {
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
+
+.capa-card p {
+  font-size: 0.95rem;
+  color: #555;
+}
